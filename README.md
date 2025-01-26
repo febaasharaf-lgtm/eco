@@ -105,7 +105,7 @@ pip install tensorflow numpy pillow flask
 Place your dataset in the dataset/ folder, organized as shown in the Dataset section.
 Usage
 
-###Training the Model
+### Training the Model
 1. Run the waste_classifier.py script:
 python  waste_classifier.py
 2. The trained model will be saved as waste_classifier.h5.
