@@ -19,22 +19,22 @@
  
  Improper waste segregation leads to inefficient recycling, increased pollution, and resource wastage. Manual sorting is labor-intensive and error-prone. This project provides an automated system to accurately classify waste, improving waste management and promoting sustainability.
 
- The Solution:
+ ### The Solution:
  
 The solution is an AI-powered system that uses a pre-trained MobileNetV2 model to classify waste as Recyclable or Non-recyclable based on images. It includes a Flask-based REST API for real-time classification, enabling easy integration into smart waste management systems to improve recycling efficiency and reduce environmental impact.
  
  
-🌿 EcoBin
+# 🌿 EcoBin
 
 Waste Classification Using MobileNetV2
-Overview
+### Overview
 This project focuses on building a machine learning model that classifies waste into two categories: Recyclable and Non-recyclable. Using a pre-trained MobileNetV2 model, this solution enables quick and accurate waste classification. The project also includes a REST API for easy integration and real-time image classification.
 
-Technical Details
+## Technical Details
 
-Technologies/Components Used
+### Technologies/Components Used
 
-For Software:
+### For Software:
 
   •Languages Used: Python,Javascript,HTML
   
