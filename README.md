@@ -150,7 +150,7 @@ Workflow Diagram:
 |   User Upload    | -----> | Image Preprocessing  | -----> | MobileNetV2 Model |
 | (Waste Image)    |        | (Resize, Normalize)  |        | (Classify Image)  |
 +------------------+        +----------------------+        +------------------+
-                                   |                                |
+                                   |                                |   
                                    v                                v
                            +------------------+            +------------------+
                            | API Response     | <--------- | Classification   |
