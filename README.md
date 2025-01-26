@@ -45,7 +45,7 @@ This project focuses on building a machine learning model that classifies waste 
   •Tools Used: Visual Studio Code,Git,Kaggle
   
 
-Table of Contents
+## Table of Contents
 1. Features
 2. Technologies Used
 3. Dataset
@@ -58,21 +58,21 @@ Table of Contents
 7. Future Improvements
 8. Contact
    
-Features
+### Features
 
 Binary Classification: Identifies waste as either recyclable or non-recyclable.
 Pre-trained Model: Uses MobileNetV2, pre-trained on ImageNet for efficient feature extraction.
 Data Augmentation: Augments training data for better generalization.
 REST API Integration: Flask-based API for real-time waste classification.
 
-Technologies Used
+### Technologies Used
 
 Programming Language: Python 3.7+,Javascript,HTML
 Deep Learning Framework: TensorFlow 2.x
 Libraries:  Pillow, Flask
 Pre-trained Model: MobileNetV2
 
-Dataset
+### Dataset
 
 The dataset must be organized in the following structure:
 
@@ -92,7 +92,7 @@ Download public datasets like TrashNet or Kaggle Waste Classification.
 Each category folder should contain relevant images (e.g., recyclable materials like plastic bottles, and non-recyclable materials like food waste).
 Setup Instructions
 
-Follow these steps to set up the project locally:
+### Follow these steps to set up the project locally:
 
 1. Clone the Repository git clone <repository-url>
 cd WasteClassification
@@ -105,7 +105,7 @@ pip install tensorflow numpy pillow flask
 Place your dataset in the dataset/ folder, organized as shown in the Dataset section.
 Usage
 
-Training the Model
+###Training the Model
 1. Run the waste_classifier.py script:
 python  waste_classifier.py
 2. The trained model will be saved as waste_classifier.h5.
@@ -133,7 +133,7 @@ WasteClassification/
 └── README.md         # Project documentation
 
 
-Screenshots:
+### Screenshots:
 
 Front-End
 ![Screenshot 2025-01-26 073854](https://github.com/user-attachments/assets/513a18ba-9854-483d-943d-74a34e3a3077)
@@ -145,7 +145,7 @@ JavaScrip code for a function named getRecyclingCenters
 ![Screenshot 2025-01-26 073956](https://github.com/user-attachments/assets/20361901-c90a-436b-8d8e-bd8bba7405ef)
 
  
- Workflow Diagram:
+###  Workflow Diagram:
 
 ------------------+        +----------------------+        +------------------+
 |   User Upload    | -----> | Image Preprocessing  | -----> | MobileNetV2 Model |
@@ -162,21 +162,21 @@ JavaScrip code for a function named getRecyclingCenters
 
 
   
-Future Improvements
+### Future Improvements
 
 1. Enhance dataset size and diversity for better accuracy.
 2. Implement multi-class classification for detailed waste categorization.
 3. Integrate with IoT devices for automated waste management.
 4. Deploy the model to the cloud for global accessibility
 
-Team Contributions:
+### Team Contributions:
 •Feba Asharaf :Front end and Back end
 •Gayatri Sabin :Front end and Back end
 
 
-Contact
+## Contact
 
-For questions or collaboration:
+### For questions or collaboration:
 
 Email: asharaffeba@gmail.com
 
