@@ -1,5 +1,5 @@
  # eco
-#  Project Name:EchoBin
+#  Project Name:EcoBin
  
 ##  Team Name:Code Red
  
