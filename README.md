@@ -169,6 +169,10 @@ Future Improvements
 3. Integrate with IoT devices for automated waste management.
 4. Deploy the model to the cloud for global accessibility
 
+Team Contributions:
+•Feba Asharaf :Front end and Back end
+•Gayatri Sabin :Front end and Back end
+
 
 Contact
 
