@@ -144,7 +144,7 @@ Cascading Style Sheets
 JavaScrip code for a function named getRecyclingCenters
 ![Screenshot 2025-01-26 073956](https://github.com/user-attachments/assets/20361901-c90a-436b-8d8e-bd8bba7405ef)
 
-##Demo Video
+## Demo Video
 https://drive.google.com/file/d/1D-B-so4DtHTuMmtHnlbIE3RBxNQecfMQ/view?usp=drive_link
 
 
