@@ -1,8 +1,12 @@
  # eco
  project name:EchoBin
+ 
  Team Name:Code Red
+ 
  Team Members:
-  *Member 1:Feba Asharaf - College of Engineering Chenganuur 
+ 
+  *Member 1:Feba Asharaf - College of Engineering Chenganuur
+  
   *Member 2:Gayatri Sabin - College of Engineering Chenganuur
   
 🌿 EcoBin
