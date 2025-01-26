@@ -1,9 +1,9 @@
  # eco
  Project Name:EchoBin
  
- Team Name:Code Red
+#   Team Name:Code Red
  
- # Team Members:
+ ## Team Members:
  
   • Member 1:Feba Asharaf - College of Engineering Chenganuur
   
