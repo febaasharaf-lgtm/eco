@@ -8,7 +8,10 @@
   *Member 1:Feba Asharaf - College of Engineering Chenganuur
   
   *Member 2:Gayatri Sabin - College of Engineering Chenganuur
-  
+  Hosted Project Link: https://github.com/febaasharaf-lgtm/eco
+
+ Project Description
+ 
 🌿 EcoBin
 EcoBin is an intelligent, eco-conscious waste management system that simplifies recycling and promotes sustainability. Designed for homes, offices, and public spaces, EcoBin combines smart technology with user-friendly features to reduce waste, improve recycling rates, and make a positive environmental impact.
 
