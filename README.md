@@ -160,7 +160,6 @@ JavaScrip code for a function named getRecyclingCenters
                            +------------------+
 
 
-
   
 ### Future Improvements
 
