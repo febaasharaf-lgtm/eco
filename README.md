@@ -9,7 +9,7 @@
   
   • Member 2:Gayatri Sabin - College of Engineering Chenganuur
   
-  Hosted Project Link: https://github.com/febaasharaf-lgtm/eco
+  Hosted Project Link:https://febaasharaf-lgtm.github.io/eco/
 
  ### Project Description:
  
