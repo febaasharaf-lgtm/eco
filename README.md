@@ -132,6 +132,17 @@ WasteClassification/
 
 └── README.md         # Project documentation
 
+
+Screenshots:
+
+![Screenshot 2025-01-26 073854](https://github.com/user-attachments/assets/513a18ba-9854-483d-943d-74a34e3a3077)
+![Screenshot 2025-01-26 073917](https://github.com/user-attachments/assets/930cdc5d-4a1a-49f1-ab2c-7971aa4bcfe2)
+![Screenshot 2025-01-26 073956](https://github.com/user-attachments/assets/20361901-c90a-436b-8d8e-bd8bba7405ef)
+
+
+
+
+  
 Future Improvements
 
 1. Enhance dataset size and diversity for better accuracy.
