@@ -46,13 +46,21 @@ Pre-trained Model: MobileNetV2
 Dataset
 
 The dataset must be organized in the following structure:
+
 dataset/
+
 ├── train/
-│   ├── recyclable/          # Images of recyclable waste
-│   └── non-recyclable/      # Images of non-recyclable waste
+
+│   ├── recyclable/
+# Images of recyclable waste
+│   └── non-recyclable/ 
+# Images of non-recyclable waste
 └── test/
+
     ├── recyclable/
+    
     └── non-recyclable/
+
 Download public datasets like TrashNet or Kaggle Waste Classification.
 Each category folder should contain relevant images (e.g., recyclable materials like plastic bottles, and non-recyclable materials like food waste).
 Setup Instructions
