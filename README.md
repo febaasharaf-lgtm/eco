@@ -15,7 +15,7 @@
  
  This project develops an AI-powered waste classification system using the pre-trained MobileNetV2 model. It automates the process of classifying waste as Recyclable or Non-recyclable, enabling efficient waste segregation. The solution includes a REST API for real-time image classification, supporting better recycling practices and reducing environmental impact.
 
- The Problem Statement:
+### The Problem Statement:
  
  Improper waste segregation leads to inefficient recycling, increased pollution, and resource wastage. Manual sorting is labor-intensive and error-prone. This project provides an automated system to accurately classify waste, improving waste management and promoting sustainability.
 
