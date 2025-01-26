@@ -171,6 +171,7 @@ JavaScrip code for a function named getRecyclingCenters
 
 ### Team Contributions:
 •Feba Asharaf :Front end and Back end
+
 •Gayatri Sabin :Front end and Back end
 
 
