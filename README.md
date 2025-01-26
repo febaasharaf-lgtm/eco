@@ -51,14 +51,10 @@ dataset/
 
 ├── train/
 
-│   ├── recyclable/
-# Images of recyclable waste
-│   └── non-recyclable/ 
-# Images of non-recyclable waste
+│   ├── recyclable/# Images of recyclable waste
+│   └── non-recyclable/ # Images of non-recyclable waste
 └── test/
-
-    ├── recyclable/
-    
+    ├── recyclable/ 
     └── non-recyclable/
 
 Download public datasets like TrashNet or Kaggle Waste Classification.
