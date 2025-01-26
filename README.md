@@ -40,15 +40,9 @@ For Software:
   
   *Frameworks used: TensorFlow 2.x
   
-  *Libraries Used: Pillow
-  
-                   Flask
+  *Libraries Used: Pillow,Flask
                
-  *Tools Used: Visual Studio Code
-  
-               Git
-               
-               Kaggle
+  *Tools Used: Visual Studio Code,Git,Kaggle
   
 
 Table of Contents
