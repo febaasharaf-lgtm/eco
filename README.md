@@ -5,9 +5,9 @@
  
  Team Members:
  
-  *Member 1:Feba Asharaf - College of Engineering Chenganuur
+  • Member 1:Feba Asharaf - College of Engineering Chenganuur
   
-  *Member 2:Gayatri Sabin - College of Engineering Chenganuur
+  • Member 2:Gayatri Sabin - College of Engineering Chenganuur
   
   Hosted Project Link: https://github.com/febaasharaf-lgtm/eco
 
@@ -36,13 +36,13 @@ Technologies/Components Used
 
 For Software:
 
-  *Languages Used: Python,Javascript,HTML
+  •Languages Used: Python,Javascript,HTML
   
-  *Frameworks used: TensorFlow 2.x
+  •Frameworks used: TensorFlow 2.x
   
-  *Libraries Used: Pillow,Flask
+  •Libraries Used: Pillow,Flask
                
-  *Tools Used: Visual Studio Code,Git,Kaggle
+  •Tools Used: Visual Studio Code,Git,Kaggle
   
 
 Table of Contents
@@ -144,7 +144,8 @@ Cascading Style Sheets
 JavaScrip code for a function named getRecyclingCenters
 ![Screenshot 2025-01-26 073956](https://github.com/user-attachments/assets/20361901-c90a-436b-8d8e-bd8bba7405ef)
 
-# H1 Heading Workflow Diagram:
+ 
+ Workflow Diagram:
 
 ------------------+        +----------------------+        +------------------+
 |   User Upload    | -----> | Image Preprocessing  | -----> | MobileNetV2 Model |
