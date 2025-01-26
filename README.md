@@ -89,10 +89,15 @@ Project Structure
 
 WasteClassification/
 ├── train.py          # Script to train the model
+
 ├── classify.py       # Script to classify a single image
+
 ├── app.py            # Flask app for deploying the model
+
 ├── waste_classifier.h5  # Trained model file
+
 ├── dataset/          # Dataset folder (contains train/test data)
+
 └── README.md         # Project documentation
 
 Future Improvements
