@@ -11,14 +11,36 @@
   
   Hosted Project Link: https://github.com/febaasharaf-lgtm/eco
 
- Project Description
+ Project Description:
+ 
+ This project develops an AI-powered waste classification system using the pre-trained MobileNetV2 model. It automates the process of classifying waste as Recyclable or Non-recyclable, enabling efficient waste segregation. The solution includes a REST API for real-time image classification, supporting better recycling practices and reducing environmental impact.
+
+ The Problem Statement:
+ 
+ Improper waste segregation leads to inefficient recycling, increased pollution, and resource wastage. Manual sorting is labor-intensive and error-prone. This project provides an automated system to accurately classify waste, improving waste management and promoting sustainability.
+
+ The Solution:
+ 
+The solution is an AI-powered system that uses a pre-trained MobileNetV2 model to classify waste as Recyclable or Non-recyclable based on images. It includes a Flask-based REST API for real-time classification, enabling easy integration into smart waste management systems to improve recycling efficiency and reduce environmental impact.
+ 
  
 🌿 EcoBin
-EcoBin is an intelligent, eco-conscious waste management system that simplifies recycling and promotes sustainability. Designed for homes, offices, and public spaces, EcoBin combines smart technology with user-friendly features to reduce waste, improve recycling rates, and make a positive environmental impact.
 
 Waste Classification Using MobileNetV2
 Overview
 This project focuses on building a machine learning model that classifies waste into two categories: Recyclable and Non-recyclable. Using a pre-trained MobileNetV2 model, this solution enables quick and accurate waste classification. The project also includes a REST API for easy integration and real-time image classification.
+
+Technical Details
+Technologies/Components Used
+For Software:
+  *Languages Used: Python,Javascript,HTML
+  *Frameworks used: TensorFlow 2.x
+  *Libraries Used: Pillow
+                   Flask
+  *Tools Used: Visual Studio Code
+               Git
+               Kaggle
+  
 
 Table of Contents
 1. Features
