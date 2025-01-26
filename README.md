@@ -88,6 +88,7 @@ Classification Result: Recyclable
 Project Structure
 
 WasteClassification/
+
 ├── train.py          # Script to train the model
 
 ├── classify.py       # Script to classify a single image
