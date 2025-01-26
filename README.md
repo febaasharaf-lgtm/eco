@@ -3,7 +3,7 @@
  
  Team Name:Code Red
  
- Team Members:
+ #Team Members:
  
   • Member 1:Feba Asharaf - College of Engineering Chenganuur
   
@@ -11,7 +11,7 @@
   
   Hosted Project Link: https://github.com/febaasharaf-lgtm/eco
 
- Project Description:
+ ###Project Description:
  
  This project develops an AI-powered waste classification system using the pre-trained MobileNetV2 model. It automates the process of classifying waste as Recyclable or Non-recyclable, enabling efficient waste segregation. The solution includes a REST API for real-time image classification, supporting better recycling practices and reducing environmental impact.
 
