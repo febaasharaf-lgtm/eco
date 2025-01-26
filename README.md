@@ -31,14 +31,23 @@ Overview
 This project focuses on building a machine learning model that classifies waste into two categories: Recyclable and Non-recyclable. Using a pre-trained MobileNetV2 model, this solution enables quick and accurate waste classification. The project also includes a REST API for easy integration and real-time image classification.
 
 Technical Details
+
 Technologies/Components Used
+
 For Software:
+
   *Languages Used: Python,Javascript,HTML
+  
   *Frameworks used: TensorFlow 2.x
+  
   *Libraries Used: Pillow
+  
                    Flask
+               
   *Tools Used: Visual Studio Code
+  
                Git
+               
                Kaggle
   
 
