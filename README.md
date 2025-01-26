@@ -52,7 +52,9 @@ dataset/
 ├── train/
 
 │   ├── recyclable/# Images of recyclable waste
+
 │   └── non-recyclable/ # Images of non-recyclable waste
+
 └── test/
     ├── recyclable/ 
     └── non-recyclable/
